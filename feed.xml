@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>99 Uptime</title>
+    <link href="https://jignesh-darji.github.io/gh-page/feed.xml" rel="self" />
+    <link href="https://jignesh-darji.github.io/gh-page" />
+    <updated>2025-07-20T15:38:30+05:30</updated>
+    <author>
+        <name>99 Uptime Team</name>
+    </author>
+    <id>https://jignesh-darji.github.io/gh-page</id>
+
+    <entry>
+        <title>This is the test blog post</title>
+        <author>
+            <name>99 Uptime Team</name>
+        </author>
+        <link href="https://jignesh-darji.github.io/gh-page/this-is-the-test-blog-post.html"/>
+        <id>https://jignesh-darji.github.io/gh-page/this-is-the-test-blog-post.html</id>
+
+        <updated>2025-07-20T15:38:30+05:30</updated>
+            <summary>
+                <![CDATA[
+                    test blog post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test blog post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
